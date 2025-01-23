@@ -1,2 +1,2 @@
-# my-vim
-My vim template
+# Neov Mono
+This is my neovim config.
